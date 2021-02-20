@@ -1,4 +1,6 @@
+.vs/*
 bookshelf/bin/
 bookshelf/obj/
-.vs/*
+ef/bin/
+ef/obj/
 

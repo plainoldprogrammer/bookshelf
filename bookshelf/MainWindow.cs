@@ -15,7 +15,12 @@ namespace bookshelf
         public MainWindow()
         {
             InitializeComponent();
+            Configure();
         }
 
+        public void Configure()
+        {
+            this.Text = "Bookshelf";
+        }
     }
 }

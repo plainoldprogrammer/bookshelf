@@ -1,0 +1,4 @@
+bookshelf/bin/
+bookshelf/obj/
+.vs/*
+
